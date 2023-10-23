@@ -1,0 +1,8 @@
+2022-01-27 04:15:07,398 INFO PDF_Merger App is called from main
+2022-01-27 04:15:07,566 INFO Declaring labels for GUI
+2022-01-27 04:15:07,569 INFO Declaring entry boxes for GUI
+2022-01-27 04:15:07,570 INFO Declaring buttons
+2022-01-27 04:15:07,571 INFO Initiating main loop on GUI
+2022-01-27 04:15:20,511 INFO Action function is called through GUI
+2022-01-27 04:15:20,513 INFO All files in entered directory are lised
+2022-01-27 04:15:20,514 INFO PDF files from entered directory are identified
